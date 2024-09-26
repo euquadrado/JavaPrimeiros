@@ -1,0 +1,32 @@
+
+# Linguagens de programação
+*.java linguagens: Java
+*.py linguagens: Python
+*.js linguagens: JavaScript
+*.c linguagens: C
+*.cpp linguagens: C++
+*.cs linguagens: C#
+*.go linguagens: Go
+*.rb linguagens: Ruby
+*.php linguagens: PHP
+*.swift linguagens: Swift
+*.html linguagens: HTML
+*.css linguagens: CSS
+*.ts linguagens: TypeScript
+*.r linguagens: R
+*.sh linguagens: Shell
+*.sql linguagens: SQL
+*.kotlin linguagens: Kotlin
+*.json linguagens: JSON
+
+*.xml linguagens: XML
+*.yaml linguagens: YAML
+*.md linguagens: Markdown
+*.perl linguagens: Perl
+*.pl linguagens: Perl
+*.bash linguagens: Bash
+*.lua linguagens: Lua
+*.dart linguagens: Dart
+*.scala linguagens: Scala
+*.groovy linguagens: Groovy
+*.vb linguagens: Visual Basic
